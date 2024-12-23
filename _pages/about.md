@@ -2,6 +2,9 @@
 layout: single
 title: About
 permalink: /about/
+header:
+  overlay_image: /assets/images/500x300.png
+  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
 ---
 
 Hey! I'm TJ - a network engineer by day who has way too many interests and hobbies for my free time. 
@@ -13,12 +16,13 @@ Feel free to [reach out]({% link _pages/contact.md %}) if anything resonates wit
 
 
 Some of my hobbies and interests:
-- technology
-- homelab things
+- traveling
 - IT automation, python, ansible, etc
 - video games (mostly PC, some VR, some Xbox)
+- homelab things
 - music production
 - watching TV shows and Movies
 - watching sports
 - skiing
 - hiking
+- technology in general
