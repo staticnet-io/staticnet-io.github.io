@@ -8,4 +8,4 @@ header:
 ---
 
 ### Email
-coming soon...
+static@staticnet.io
