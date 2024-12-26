@@ -1,5 +1,5 @@
 ---
-title:   "Python ractice Suggestions from Claude AI"
+title:   "Python Practice Suggestions from Claude AI"
 tagline: "Using AI as a Learning Tool"
 excerpt: "Python Practice Suggestions from Claude AI"
 date: 2024-12-26
@@ -7,13 +7,13 @@ last_modified_at: 2024-12-26
 header:
   overlay_image: /assets/images/500x300.png
   overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
-classes: wide
 layout: single
+classes: wide
 tags: ai python learning networking automation post
 ---
 # Using AI as a Learning Tool
 
-I've been talking more with a few of the many AI chatbots lately for help and ideas on various things, and one of the things that came to mind was to ask for some suggestions to brush up on Python skills, relating to network engineering and network automation.  I've shared the responses I received from [Claude AI](https://claude.ai) below. I'll do a follow up post to cover the solutions I came up with for each exercise in the near future.
+Recently I've been talking more with a few of the many AI chatbots currently available, for help and ideas on various topics. One of the things that came to mind was to ask for suggestions on how to brush up on Python skills relating to network engineering and network automation.  I've shared the responses I received from [Claude AI](https://claude.ai) below. In the near future I'll do a follow up post to cover the solutions I came up with for each exercise.
 
 **NOTE:** I will add Links to my solutions in a future update to this post.
 {: .notice}
