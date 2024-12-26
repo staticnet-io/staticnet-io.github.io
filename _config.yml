@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "staticnet.io"
-title_separator          : "|"
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TJ Mohr"
 description              : "A technology and network engineering focused blog, with other topics here and there."
@@ -322,8 +322,9 @@ defaults:
       header:
         teaser: /assets/images/500x300.png
       layout: single
-      author_profile: true
+      author_profile: # true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
