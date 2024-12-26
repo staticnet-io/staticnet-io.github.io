@@ -116,13 +116,13 @@ analytics:
 author:
   name             : "TJ M"
   avatar           : # /assets/images/bio-avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "Hello!"
-  location         : # "Somewhere"
-  email            : "static@staticnet.io"
+  bio              : ""
+  location         : "USA"
+  email            : "tj@staticnet.io"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url:  "mailto:static@staticnet.io"
+    #   url:  "mailto:tj@staticnet.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://staticnet.io"
@@ -322,7 +322,7 @@ defaults:
       header:
         teaser: /assets/images/500x300.png
       layout: single
-      author_profile: # true
+      author_profile: false
       read_time: true
       comments: true
       share: true
