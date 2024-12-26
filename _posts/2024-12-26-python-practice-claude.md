@@ -1,7 +1,7 @@
 ---
-title:   "Python Practice Suggestions from Claude AI"
+title:   "Python Practice with Claude AI"
 tagline: "Using AI as a Learning Tool"
-excerpt: "Python Practice Suggestions from Claude AI"
+excerpt: "Python Practice with Claude AI"
 date: 2024-12-26
 last_modified_at: 2024-12-26
 header:
