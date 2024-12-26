@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minimal-mistakes/skins/dark";  // Add your skin import first
+@import "minimal-mistakes";             // Then the main stylesheet
+
+.wide {
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+}

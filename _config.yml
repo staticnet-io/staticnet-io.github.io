@@ -322,6 +322,7 @@ defaults:
       header:
         teaser: /assets/images/500x300.png
       layout: single
+      classes: wide
       author_profile: false
       read_time: true
       comments: true
