@@ -19,7 +19,7 @@ Feel free to [reach out]({% link _pages/contact.md %}) if anything resonates wit
 Some of my hobbies and interests:
 - traveling
 - IT automation, python, ansible, etc
-- video games (mostly PC, some VR, some Xbox)
+- video games (PC, VR, Console, Handheld -- I enjoy them all)
 - homelab things
 - music production
 - watching TV shows and Movies
