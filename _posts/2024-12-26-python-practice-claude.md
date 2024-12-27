@@ -15,10 +15,7 @@ tags: ai python learning networking automation post
 
 Recently I've been talking more with a few of the many AI chatbots currently available, for help and ideas on various topics. One of the things that came to mind was to ask for suggestions on how to brush up on Python skills relating to network engineering and network automation.  I've shared the responses I received from [Claude AI](https://claude.ai) below. In the near future I'll do a follow up post to cover the solutions I came up with for each exercise.
 
-**NOTE:** I will add Links to my solutions in a future update to this post.
-{: .notice}
-
-**ANOTHER NOTE:** The remainder of this post is a copy / paste from the response given by Claude AI, including the "starter template" code.
+**NOTE:** solution links coming in a future update to this post.
 {: .notice--info}
 
 ```
