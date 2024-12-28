@@ -219,6 +219,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  toc_sticky: true
+  toc_icon: cog
 
 
 # Sass/SCSS
@@ -323,7 +325,7 @@ defaults:
       header:
         teaser: /assets/images/switch-code-3.png
         overlay_image: /assets/images/switch-code-3.png
-        overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+        overlay_filter: 0.2
       layout: single
       # classes: wide
       author_profile: false
@@ -341,4 +343,4 @@ defaults:
       header:
         teaser: /assets/images/switch-code-3.png
         overlay_image: /assets/images/switch-code-3.png
-        overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+        overlay_filter: 0.2
