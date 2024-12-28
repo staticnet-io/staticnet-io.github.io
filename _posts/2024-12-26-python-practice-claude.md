@@ -3,11 +3,6 @@ title:   "Python Practice with Claude AI"
 tagline: "Using AI as a Learning Tool"
 excerpt: "Python Practice with Claude AI"
 date: 2024-12-26
-last_modified_at: 2024-12-26
-header:
-  overlay_image: /assets/images/500x300.png
-  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
-layout: single
 classes: wide
 tags: ai python learning networking automation post
 ---

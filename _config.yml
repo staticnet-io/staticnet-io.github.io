@@ -26,7 +26,7 @@ description              : "A technology and network engineering focused blog, w
 url                      : "https://staticnet.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staticnet-io/staticnet-io.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/switch-code-3.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # /assets/images/500x300.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -321,7 +321,9 @@ defaults:
       type: posts
     values:
       header:
-        teaser: /assets/images/500x300.png
+        teaser: /assets/images/switch-code-3.png
+        overlay_image: /assets/images/switch-code-3.png
+        overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
       layout: single
       # classes: wide
       author_profile: false
@@ -330,3 +332,13 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: false
+      header:
+        teaser: /assets/images/switch-code-3.png
+        overlay_image: /assets/images/switch-code-3.png
+        overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background

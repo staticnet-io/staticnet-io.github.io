@@ -2,10 +2,6 @@
 layout: single
 title: About
 permalink: /about/
-header:
-  overlay_image: /assets/images/500x300.png
-  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
-author_profile: false
 ---
 
 Hey! I'm TJ - a network engineer by day who has way too many interests and hobbies for my free time. 
