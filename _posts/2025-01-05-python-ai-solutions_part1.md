@@ -44,6 +44,9 @@ Write a script that connects to multiple network switches and verifies:
 
 This exercise teaches practical implementation of loops, conditionals, and network device interaction in a real-world context.
 
+**Link to the original post:** [Python Practice with AI]({% link _posts/2024-12-26-python-practice-ai.md %}){:target="_blank"}
+{: .notice--warning}
+
 ## Solution Overview
 
 ### 1. Configuration Files
@@ -143,7 +146,7 @@ def load_config(config_file):
 ```
 
 - #### Configuration verification functions:
-   - `verify_ntp_config`:
+- `verify_ntp_config`:
 
 ```python
 def verify_ntp_config(conn, expected_servers):

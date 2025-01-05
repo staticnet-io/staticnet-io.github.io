@@ -8,11 +8,12 @@ tags: ai python learning networking automation post
 ---
 # Using AI as a Learning Tool
 
-Recently I've been talking more with a few of the many AI chatbots currently available, for help and ideas on various topics. One of the things that came to mind was to ask for suggestions on how to brush up on Python skills relating to network engineering and network automation.  I've shared the responses I received from [Claude AI](https://claude.ai) below. In the near future I'll do a follow up post to cover the solutions I came up with for each exercise.
+Recently I've been talking more with a few of the many AI chatbots currently available, for help and ideas on various topics. One of the things that came to mind was to ask for suggestions on how to brush up on Python skills relating to network engineering and network automation.  I've shared the responses I received from [Claude AI](https://claude.ai){:target="_blank"} below. In the near future I'll do a follow up post to cover the solutions I came up with for each exercise.
 
-**NOTE:** solution links coming in a future update to this post.
+**NOTE:** solutions will be linked in future posts.
 {: .notice--info}
 
+---
 ```
 # Write a script that connects to multiple switches and verifies:
 # - NTP servers are correctly configured
@@ -20,6 +21,9 @@ Recently I've been talking more with a few of the many AI chatbots currently ava
 # - VLANs exist as expected
 # This teaches you loops, conditionals, and basic network device interaction
 ```
+- ***Update:*** [config validation solution post]({% link _posts/2025-01-05-python-ai-solutions_part1.md %}){:target="_blank"}
+
+---
 
 ```
 # Create a script that:
@@ -28,7 +32,7 @@ Recently I've been talking more with a few of the many AI chatbots currently ava
 # - Alerts (via email/Slack) if an interface flaps
 # This introduces you to scheduling, file/database handling, and API integration
 ```
-
+---
 ```
 # Build a tool that:
 # - Takes a "golden config" template
@@ -36,7 +40,7 @@ Recently I've been talking more with a few of the many AI chatbots currently ava
 # - Reports discrepancies
 # Great for learning text parsing and comparison operations
 ```
-
+---
 ```
 # Develop a script that:
 # - Reads changes from a CSV/Excel file
@@ -45,8 +49,8 @@ Recently I've been talking more with a few of the many AI chatbots currently ava
 # - Creates a backup and rollback plan
 # Teaches error handling and safe deployment practices
 ```
-
-Here's a starter template for the interface monitor to give you an idea:
+---
+Here's a starter template for the interface monitor to give an idea:
 
 ```python
 from netmiko import ConnectHandler
