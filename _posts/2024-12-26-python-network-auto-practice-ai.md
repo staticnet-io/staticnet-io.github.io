@@ -1,7 +1,7 @@
 ---
-title:   "Python Practice with AI"
+title:   "Python Network Automation Practice with AI"
 tagline: "Using AI as a Learning Tool"
-excerpt: "Python Practice with AI"
+excerpt: "Python Network Automation Practice with AI"
 date: 2024-12-26
 classes: wide
 tags: ai python learning networking automation post

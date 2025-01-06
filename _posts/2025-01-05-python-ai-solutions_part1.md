@@ -1,5 +1,5 @@
 ---
-title:  "Python Practice with AI - Solutions Part 1"
+title:  "Python Network Automation Practice with AI - Solutions Part 1"
 date: 2025-01-05
 last_modified_at: 
 tagline: "Part 1: Configuration Validator" # overrides excerpt for page tagline display
@@ -44,7 +44,7 @@ Write a script that connects to multiple network switches and verifies:
 
 This exercise teaches practical implementation of loops, conditionals, and network device interaction in a real-world context.
 
-**Link to the original post:** [Python Practice with AI]({% link _posts/2024-12-26-python-practice-ai.md %}){:target="_blank"}
+**Link to the original post:** [Python Network Automation Practice with AI]({% post_url 2024-12-26-python-network-auto-practice-ai %}){:target="_blank"}
 {: .notice--warning}
 
 ## Solution Overview
@@ -374,7 +374,7 @@ Expected VLANs: 1, 10, 20, 30, 40
 - Implement parallel device verification for larger networks
 - Add reporting capabilities (CSV, HTML, etc.)
 
-Remember to check out the [previous post]({% post_url 2024-12-26-python-practice-ai %}) for more Python practice exercises!
+Remember to check out the [previous post]({% post_url 2024-12-26-python-network-auto-practice-ai %}) for more Python practice exercises!
 
 ## Feedback
 Found a bug or have a suggestion? Feel free to leave a comment below
