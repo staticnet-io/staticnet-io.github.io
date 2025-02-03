@@ -140,9 +140,10 @@ Remember to:
 - Update your Python versions as needed using `asdf`
 
 For next steps, consider exploring:
-- Setting up linting with tools like `flake8` or `pylint`
-- Configuring a test framework like `pytest`
-- Adding type checking with `mypy`
+- Setting up VS Code's `Python` extension and configuring your preferred settings
+- Learning how to manage project dependencies with `requirements.txt` or `pip-tools`
+- Creating a template project structure that you can reuse for new projects
+- Setting up `git` for version control if you haven't already
 
 Happy coding!
 
